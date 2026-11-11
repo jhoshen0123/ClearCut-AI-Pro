@@ -1,0 +1,6 @@
+{
+  "name": "ClearCut AI Pro Studio",
+  "description": "Professional AI background remover and virtual product photo studio with instant hair-level alpha matting, 3D podium scenes, and contact shadows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
